@@ -1,0 +1,9 @@
+/*
+Theme Name:     Evasion
+Template:       tafri-travel
+
+This is the child theme for Tafri Travel theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../tafri-travel/rtl.css");
